@@ -40,7 +40,7 @@
         android:description="@string/permdesc_read_settings"/>
     <permission
         android:name="com.android.launcher3.permission.WRITE_SETTINGS"
-        android:protectionLevel="signatureOrSystem"
+        android:protectionLevel="signature|privileged"
         android:label="@string/permlab_write_settings"
         android:description="@string/permdesc_write_settings"/>
 
@@ -160,3 +160,4 @@
 
     </application>
 </manifest>
+
