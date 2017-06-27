@@ -21,4 +21,5 @@
     <string name="search_bar_title">Mostra la barra di ricerca</string>
     <string name="icon_pack">Pacchetto Icone</string>
     <string name="icon_pack_summary">Seleziona un pacchetto icone</string>
+    <string name="default_iconpack_title">Icone predefinite</string>
 </resources>
